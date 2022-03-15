@@ -1,5 +1,11 @@
 {
-  "name": "Start on Heroku: Java",
-  "description": "A barebones Java app, which can easily be deployed to Heroku.",
-  "addons": [ "heroku-postgresql" ]
+  "name": "Borealis Isolated Postgres demo",
+  "addons": [ "borealis-pg" ],
+  "buildpacks": [
+    {"url": "borealis/postgres-ssh"},
+    {"url": "heroku/java"}
+  ],
+  "description": "A demonstration Heroku app for the Borealis Isolated Postgres add-on.",
+  "logo": "https://www.borealis-data.com/assets/img/borealis-pg-demo-app-logo.png",
+  "website": "https://www.borealis-data.com/"
 }
