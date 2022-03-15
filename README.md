@@ -1,10 +1,8 @@
-# java-getting-started
+# borealis-pg-demo-app
 
-A barebones Java app, which can easily be deployed to Heroku.
+A simple Java app for Heroku that demonstrates the [Borealis Isolated Postgres](https://elements.heroku.com/addons/borealis-pg) add-on.
 
-This application supports the [Getting Started with Java on Heroku](https://devcenter.heroku.com/articles/getting-started-with-java) article - check it out.
-
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/OldSneerJaw/borealis-pg-demo-app)
 
 ## Running Locally
 
@@ -35,6 +33,10 @@ $ heroku open
 
 ## Documentation
 
-For more information about using Java on Heroku, see these Dev Center articles:
+For more information: [Borealis Isolated Postgres](https://devcenter.heroku.com/articles/borealis-pg).
 
-- [Java on Heroku](https://devcenter.heroku.com/categories/java)
+## Attribution
+
+This app is based on the companion [repo](https://github.com/heroku/java-getting-started) for the [Getting Started with Java on Heroku](https://devcenter.heroku.com/articles/getting-started-with-java) article.
+
+Heroku Button logo image was provided by [Icons8](https://icons8.com/).
