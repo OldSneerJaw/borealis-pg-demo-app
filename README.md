@@ -1,7 +1,8 @@
 # borealis-pg-demo-app
 
-A simple Java app for Heroku that demonstrates the [Borealis Isolated Postgres](https://elements.heroku.com/addons/borealis-pg) add-on.
+DEPRECATION NOTICE: This repository is no longer maintained as of 2023-03-21.
 
+A simple Java app for Heroku that demonstrates the [Borealis Isolated Postgres](https://elements.heroku.com/addons/borealis-pg) add-on.
 
 ## Deploying to Heroku
 
