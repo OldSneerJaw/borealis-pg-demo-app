@@ -18,7 +18,7 @@ $ heroku open
 
 or
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/OldSneerJaw/borealis-pg-demo-app)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OldSneerJaw/borealis-pg-demo-app)
 
 ## Documentation
 
@@ -27,5 +27,3 @@ For more information: [Borealis Isolated Postgres](https://devcenter.heroku.com/
 ## Attribution
 
 This app is based on the companion [repo](https://github.com/heroku/java-getting-started) for the [Getting Started with Java on Heroku](https://devcenter.heroku.com/articles/getting-started-with-java) article.
-
-Heroku Button logo image was provided by [Icons8](https://icons8.com/).
